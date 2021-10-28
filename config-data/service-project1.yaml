@@ -1,8 +1,6 @@
 server:
   port: 8001
 spring:
-  aplication:
-    name: service-project1
   data:
     mongodb:
       database: DBBank-Client
